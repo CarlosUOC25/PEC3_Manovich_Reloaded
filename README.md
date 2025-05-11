@@ -21,7 +21,7 @@ De forma metafórica, define la **multimedia** como un ensamblaje de elementos (
 
 En cambio, para él, la **hibridación** se asemeja a la reproducción sexual, donde la combinación de ADN da lugar a un nuevo ser cuya existencia sería imposible sin la fusión genética de ambos progenitores. Por lo tanto, la hibridación implica la creación de medios nuevos, fruto de la fusión de medios anteriores, que pueden mantener similitudes con sus predecesores o ser completamente innovadores.
 
-A continuación, analizaré dos casos representativos del concepto de hibridación: la aplicación de aprendizaje de idiomas Duolingo y la red social Instagram.
+A continuación, me centraré en el análisis de dos casos representativos de hibridación: la aplicación de aprendizaje de idiomas Duolingo y la red social Instagram.
 
 
 ## Duolingo: el idioma del software

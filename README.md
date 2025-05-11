@@ -29,11 +29,13 @@ A continuación, analizaré dos casos representativos del concepto de hibridaci�
 ## Re-descubriendo la hibridacion: Duolingo
 
 Se trata de una de las aplicaciones gratuitas de aprendizaje de idiomas más populares a nivel global. Fue funda por el empresario e informático guatemalteco Luis Von Ahn en el año 2011.
+
 Esta exitosa aplicación combina un sistema de lecciones breves con elementos de juego para ayudar a los usuarios a aprender una gran variedad de idiomas y a desarrollar habilidades de habla, escritura, lectura y comprensión auditiva de una manera diferente. (Natalia Guerrero, 2024).
 
 ### Incorporación de medios
 Duolingo representa un medio híbrido porque combina múltiples características (educación, juego, comunidad, software interactivo, audio, texto, interfaces dinámicas) en un solo entorno funcional.
 La aplicación introduce una serie de medios tradicionales que se combinan de una manera eficaz y que dan lugar a un nuevo medio mucho más completo:
+
 - El lenguaje escrito y oral: Se integra el texto con audio grabado de manera interactiva para ejercitar la pronunciación y la compresión.
 - Gamificación: Se incorporan mecánicas similares a la de los videojuegos con sistemas de puntos, niveles y recompensas para hacer del aprendizaje una actividad más amena.
 - Interfaz interactiva y algoritmos: Se personaliza y adapta el contenido en función del nivel de aprendizaje del usuario y en tiempo real.
@@ -44,23 +46,29 @@ Podemos afirmar que Duolingo no es solo una variedad de elementos multimedia, si
 
 ### Estrategía de hibridación
 Duolingo representa una doble hibridación, es decir, define nuevos formatos de medios y al mismo tiempo propone nuevas técnicas de interfaz. 
+
 Como nos ilustra Manovich, “Un hibrido puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo” (Manovich, 2013)
 
 #### Nuevos formatos de medios
 Duolingo transforma el formato de aprendizaje en una experiencia interactiva y gamificada, no se limita a mostrar el contenido educativo de forma tradicional, lo convierte en lecciones interactivas con un sistema de retroalimentación en tiempo real:  vidas, niveles, recompensas, objetivos diarios, etc.
+
 Por tanto, podemos afirmar que se ha creado un formato de medio nuevo, distinto al que ofrecen los libros tradiciones, cursos presenciales o incluso otras aplicaciones de enfocadas en el aprendizaje.
 
 #### Nuevas técnicas de interfaz
 Se introduce una navegación que se enfoca en la motivación del usuario. El avance no se basa solo en el progreso del temario, sino en desbloquear nuevas unidades, mantener rachas y competir con otros usuarios. Del mismo modo, el usuario también, interactúa con ejercicios orales, elecciones múltiples, emparejamientos, etc. dentro de una interfaz que responde a sus aciertos y errores.
+
 Esta forma de interacción fusiona mecánicas de juego y aprendizaje generando una experiencia personalizada.
 
 ### Conclusión
 En conclusión, Duolingo representa un claro ejemplo de hibridación dual en el contexto de los medios digitales, tal como la define Lev Manovich. 
+
 La aplicación no solo introduce nuevos formatos mediáticos al reinventar el sistema de aprendizaje de idiomas como una experiencia lúdica e interactiva, sino que también propone formas innovadoras de navegación e interacción, propias del ecosistema digital. 
+
 Reorganiza contenidos educativos que anteriormente no existían en medios de enseñanza tradicionales:
 - Las lecciones no son clases ni ejercicios con los que intentamos aprender en la escuela, son unidades breves con lógica de videojuego.
 - La gamificación enfocada en el desafío y la repetición. 
 -	Las lecciones se convierten una experiencia narrativa, no solo educativa.
+
 Duolingo no inventa el juego, ni la enseñanza, ni las interfaces visuales por separado, pero al integrarlos en un solo medio, estructurado por software, sí crea una nueva forma de interacción que redefine el acto de aprender.
 
 

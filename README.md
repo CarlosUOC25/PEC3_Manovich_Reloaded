@@ -108,9 +108,9 @@ Tras el análisis de los medios que incorpora Instagram, he llegado a la conclus
 Al igual que Duolingo, Instagram es otro ejemplo de **hibridación dual** que combina simultáneamente:
 
 #### Nuevos formatos de medios
-Instagram convierte el formato de video e imagen tradicionales y los transforma. Estos contenidos pasan de ser naturales a estar cuidadosamente editados para parecer más atractivos. Además, los videos se transforman, no solo muestran cosas, sino que cuentan algo.
+Instagram convierte el formato de video e imagen tradicionales y los transforma. Estos contenidos pasan de ser naturales a estar cuidadosamente editados para parecer más atractivos, no solo muestran cosas, sino que cuentan algo.
 
-Otro aspecto son las dinámicas del marketing personal, las personas no publican siempre lo que les gusta, sino que están vinculando su imagen personal a marcas. Además, Instagram se convierte en una tienda, las marcas pueden tener tiendas integradas dentro de la app y los usuarios realizan compras a través de sus publicaciones.
+Otro aspecto a tener en cuenta son las dinámicas del marketing personal, las personas no publican siempre lo que les gusta, sino que están vinculando su imagen personal a marcas. Además, Instagram se convierte en una tienda, las marcas pueden tener tiendas integradas dentro de la app y los usuarios realizan compras a través de sus publicaciones.
 
 Todo lo anterior funciona como un formato de medios nuevo, puesto que no solo combina elementos, sino que los transforma mediante el software en una experiencia integrada e inédita. Según Manovich, esto es precisamente lo que define a un medio hibrido: no solo juntar medios sino hacer que funcionen de manera conjunta.
 

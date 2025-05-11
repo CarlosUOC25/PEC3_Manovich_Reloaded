@@ -8,8 +8,7 @@ Autor: Carlos Guillén Penadés
 
 Fecha: 11/05/2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
+![Cultura Digital](./assets/51845411913_4878f16e79_c.jpg)
 
 
 ## Introducción

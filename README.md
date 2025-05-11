@@ -8,7 +8,7 @@ Autor: Carlos Guillén Penadés
 
 Fecha: 11/05/2025
 
-![Cultura Digital](PEC3_Manovich_Reloaded/51845411913_4878f16e79_c.jpg)
+![Cultura Digital](https://grupoioe.es/wp-content/uploads/2025/02/duolingo.jpeg)
 
 
 ## Introducción

@@ -33,7 +33,7 @@ Desde hace muchos años utilizo Duolingo, al igual que muchas personas que conoz
 En mi caso, la uso principalmente para aprender inglés, y valoro especialmente cómo adapta los contenidos según mi progreso, manteniéndome motivado a diario.
 
 ### Contextualización 
-Se trata de una de las aplicaciones gratuitas de aprendizaje de idiomas más populares a nivel global. Fue funda por el empresario e informático guatemalteco Luis Von Ahn en el año 2011.
+Se trata de una de las aplicaciones gratuitas de aprendizaje de idiomas más populares a nivel global. Fue funda por el empresario e informático guatemalteco **Luis Von Ahn** en el año **2011**.
 
 Esta exitosa aplicación combina un sistema de lecciones breves con elementos de juego para ayudar a los usuarios a aprender una gran variedad de idiomas y a desarrollar habilidades de habla, escritura, lectura y comprensión auditiva de una manera diferente. (Natalia Guerrero, 2024).
 
@@ -74,7 +74,7 @@ Reorganiza contenidos educativos que anteriormente no existían en medios de ens
 - La gamificación enfocada en el desafío y la repetición. 
 -	Las lecciones se convierten una experiencia narrativa, no solo educativa.
 
-Duolingo no inventa el juego, ni la enseñanza, ni las interfaces visuales por separado, pero al integrarlos en un solo medio, estructurado por software, sí crea una nueva forma de interacción que redefine el acto de aprender.
+Considero que Duolingo no inventa el juego, ni la enseñanza, ni las interfaces visuales por separado, pero al integrarlos en un solo medio, estructurado por software, sí crea una nueva forma de interacción que redefine el acto de aprender.
 
 
 ## Instagram: donde lo social, visual y comercial se fusionan
@@ -88,21 +88,21 @@ En mi caso, soy usuario diario de esta red social porque me permite estar al tan
 No obstante, Instagram es mucho más que una red social: se ha transformado en una plataforma multifuncional que combina comunicación, contenido visual y comercio digital. De hecho, en alguna ocasión incluso la he utilizado para realizar compras directamente desde publicaciones de marcas.
 
 ### Contextualización
-Instagram es una red social y aplicación que fue creada por Mike Krieger y Kevin Storm en el año 2010. Actualmente pertenece a la gigante tecnológica Meta, conocida por aglomerar importantes aplicaciones como What’s app y Facebook, entre otras.
+Instagram es una red social y aplicación que fue creada por **Mike Krieger** y **Kevin Storm** en el año **2010**. Actualmente pertenece a la gigante tecnológica **Meta**, conocida por aglomerar importantes aplicaciones como What’s app y Facebook, entre otras.
 
 Principalmente, en Instagram los usuarios pueden compartir fotos y videos, interactuar con otras personas a través de los “me gusta” o dejando comentarios en sus publicaciones.  Ofrece funciones como Historias (videos o imágenes que desaparecen en 24 horas), Reels (videos cortos) y Videos en vivo (videos en directo).
 
 ### Incorporación de medios
 Siguiendo el enfoque de Manovich, Instagram se trata de un medio hibrido porque no se limita solamente a ensamblar varios medios (multimedia), sino que los fusiona dentro de un único entorno regido por el software.
 
-A continuación, analizaremos los principales elementos que hibrida la plataforma:
+A continuación, analizaré los principales elementos que hibrida la plataforma:
 
 - **Red social:** Hereda la lógica de otras redes sociales como Facebook, basadas en seguir a otros usuarios, compartir publicaciones y reaccionar a estas. Sin embargo, esta lógica es reconfigurada hacia un sistema en el que la interacción social se centra en lo visual. No se trata de comunicarse sino de mostrar la mejor versión de uno mismo.
 - **Fotografía y video:** Instagram cambia la fotografía y el video, que ya no se usan solo para mostrar la realidad, sino para crear una versión atractiva de uno mismo, diseñada para ser vista y valorada por los demás. El objetivo que se busca al publicar contenido, ya no es guardar un recuerdo, sino que guste a la comunidad.
 - **Comercio digital:** Con la inclusión de Instagram shopping, la red social también funciona como un escaparate digital incorporando elementos propios del e-commerce.
-- **Marca personal:** La figura de los conocidos Influencers convierten su perfil personal en marca y cada publicación se percibe como un acto publicitario, generando un nuevo canal de comunicación comercial. 
+- **Marca personal:** La figura de los conocidos Influencers convierten su perfil en marca personal y cada publicación se percibe como un acto publicitario, generando un nuevo canal de comunicación comercial. 
 
-Tras el análisis de los medios que incorpora Instagram, podemos afirmar que estos convergen dando lugar a una experiencia nueva. El usuario ya no solo publica imágenes, sino que participa en un entorno donde la visibilidad social y el consumo están profundamente integrados
+Tras el análisis de los medios que incorpora Instagram, he llegado a la conclusión que estos convergen dando lugar a una experiencia nueva. El usuario ya no solo publica imágenes, sino que participa en un entorno donde la visibilidad social y el consumo se ecuentran integrados.
 
 ### Estrategía de hibridación
 Al igual que Duolingo, Instagram es otro ejemplo de **hibridación dual** que combina simultáneamente:
@@ -117,25 +117,23 @@ Todo lo anterior funciona como un formato de medios nuevo, puesto que no solo co
 #### Nuevas técnicas de interfaz
 Instagram introduce nuevas formas de navegación e interacción que transforman radicalmente la experiencia del usuario:
 
-El scroll infinito permite un flujo continuo de contenido sin interrupciones, mientras que los Reels, al reproducirse automáticamente, aceleran el ritmo del consumo visual.
+El scroll infinito permite la visualización continuo de contenido sin interrupciones, mientras que los Reels, al reproducirse automáticamente, aceleran el ritmo del consumo visual.
 
-Las historias, con sus respuestas rápidas, fomentan interacciones espontáneas, distintas a los comentarios tradicionales. Además, la navegación basada en algoritmos personaliza lo que cada usuario ve, creando una experiencia única para cada perfil. 
+El formato de historias fomenta interacciones espontáneas, distintas a los comentarios tradicionales. Además, la navegación basada en algoritmos personaliza lo que cada usuario ve, creando una experiencia única para cada persona 
 
-Finalmente, Instagram permite consumir e interactuar al mismo tiempo: desde una misma publicación se puede comentar, guardar, compartir o incluso comprar un producto. Esta integración de funciones configura una interfaz compleja pero fluida, que sintetiza contenidos sociales, comerciales y audiovisuales dentro de un mismo entorno.
+Además, Instagram permite consumir e interactuar al mismo tiempo: desde una misma publicación se puede comentar, guardar, compartir o incluso comprar un producto. Esta integración de funciones forma una interfaz compleja pero fluida, que muestra contenidos sociales, comerciales y audiovisuales dentro de un mismo entorno.
 
 ### Conclusión
-Instagram representa un claro ejemplo de medio híbrido según la definición de Lev Manovich. A través de la softwarización, la plataforma fusiona múltiples medios en una sola estructura. Esta hibridación no se limita a la coexistencia de elementos, sino que transforma sus lógicas internas, dando lugar a nuevas formas de producción, circulación e interacción de contenido. 
+Instagram representa un claro ejemplo de medio híbrido según la definición de Lev Manovich. A través de la **softwarización**, la plataforma fusiona múltiples medios en una sola estructura. Esta hibridación no se limita a la coexistencia de elementos, sino que transforma sus lógicas internas, dando lugar a nuevas formas de producción, e interacción con el contenido. 
 
 Simultáneamente, introduce técnicas de interfaz innovadoras que configuran una experiencia visual continua y personalizada, que redefine la relación entre usuario, imagen y entorno digital. 
 
-En definitiva, Instagram no es solo una suma de medios anteriores, sino un formato nuevo, funcionalmente autónomo, que ilustra el proceso de hibridación descrito por Manovich.
+En mi opinión, Instagram no es solo la suma de medios anteriores, sino un formato nuevo, funcionalmente autónomo, que nos muestra el proceso de hibridación descrito por Manovich.
 
 ## Valoración personal
 Antes de comenzar la lectura de *El software toma el mando*, especialmente su capítulo 3, desconocía por completo el concepto de hibridación. Curiosamente, y siempre refiriéndome al ámbito del software, vivimos rodeados de tecnología híbrida, algo que ahora me resulta realmente fascinante.
 
 Los casos que he analizado, Duolingo e Instagram, ejemplifican cómo los medios digitales actuales ya no son simplemente una suma de cosas que conocíamos, sino que combinan todos esos elementos de formas nuevas gracias al software. Estas plataformas no solo integran contenidos, transforman la manera en que los usamos, interactuamos con ellos y los incorporamos a nuestra vida.
-
-De hecho, no son solo “apps”, sino medios completamente nuevos, puesto que el ordenador es un auténtico cajón de sastre: no contiene medios separados, sino que integra pequeños componentes que se unen para formar híbridos (Manovich, 2013).  Por lo tanto, los dispositivos digitales no solo almacenan medios separados, sino que los integran y crean nuevas formas de interacción.
 
 Esta transformación no solo organiza contenidos: cambia nuestra experiencia y nuestra relación con ellos. El software realmente toma el mando, ya que se ha convertido en el verdadero motor de esta nueva era de medios híbridos.
 

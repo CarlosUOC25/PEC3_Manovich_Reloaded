@@ -15,7 +15,7 @@ Fecha: 11/05/2025
 ## Introducción
 
 
-En El software toma el mando, Lev Manovich introduce el término hibridación para describir un fenómeno característico de la era digital. Con el proceso de softwarización de los medios, el autor sostiene que estos comienzan a operar dentro de un ecosistema de software compartido, lo que propicia la interacción, mutación y creación de híbridos (Manovich, 2013).
+En el software toma el mando, Lev Manovich introduce el término hibridación para describir un fenómeno característico de la era digital. Con el proceso de softwarización de los medios, el autor sostiene que estos comienzan a operar dentro de un ecosistema de software compartido, lo que propicia la interacción, mutación y creación de híbridos (Manovich, 2013).
 
 Así, los medios tradicionales, al ser integrados y manipulados mediante software, dejan de estar aislados y comienzan a fusionarse entre sí, dando lugar a nuevas formas de expresión que habrían sido impensables en contextos anteriores al entorno digital.
 Para aclarar el concepto, Manovich establece una distinción entre hibridación y multimedia:

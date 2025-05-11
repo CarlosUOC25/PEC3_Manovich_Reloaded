@@ -30,6 +30,8 @@ A continuación, analizaré dos casos representativos del concepto de hibridaci�
 
 ## Re-descubriendo la hibridacion: Duolingo
 
+![DUOLINGO](https://www.flickr.com/photos/ajay_suresh/51845411913/in/photostream/)
+
 Se trata de una de las aplicaciones gratuitas de aprendizaje de idiomas más populares a nivel global. Fue funda por el empresario e informático guatemalteco Luis Von Ahn en el año 2011.
 
 Esta exitosa aplicación combina un sistema de lecciones breves con elementos de juego para ayudar a los usuarios a aprender una gran variedad de idiomas y a desarrollar habilidades de habla, escritura, lectura y comprensión auditiva de una manera diferente. (Natalia Guerrero, 2024).

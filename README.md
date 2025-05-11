@@ -131,7 +131,7 @@ De hecho, no son solo “apps”, sino medios completamente nuevos, puesto que e
 Esta transformación no solo organiza contenidos: cambia nuestra experiencia y nuestra relación con ellos. El software realmente toma el mando, ya que se ha convertido en el verdadero motor de esta nueva era de medios híbridos.
 
 
-### Referencias y Bibliografía
+## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 

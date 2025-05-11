@@ -28,7 +28,7 @@ A continuación, analizaré dos casos representativos del concepto de hibridaci�
 
 ## Re-descubriendo la hibridacion: Duolingo
 
-![Cultura Digital](https://github.com/CarlosUOC25/PEC3_Manovich_Reloaded/blob/8d03b233639a349c80dfd7e54fc2697cac5f124c/51845411913_4878f16e79_c.jpg)
+![Pantalla inicio Duolingo](https://github.com/CarlosUOC25/PEC3_Manovich_Reloaded/blob/8d03b233639a349c80dfd7e54fc2697cac5f124c/51845411913_4878f16e79_c.jpg)
  
 
 Se trata de una de las aplicaciones gratuitas de aprendizaje de idiomas más populares a nivel global. Fue funda por el empresario e informático guatemalteco Luis Von Ahn en el año 2011.
@@ -75,10 +75,60 @@ Reorganiza contenidos educativos que anteriormente no existían en medios de ens
 Duolingo no inventa el juego, ni la enseñanza, ni las interfaces visuales por separado, pero al integrarlos en un solo medio, estructurado por software, sí crea una nueva forma de interacción que redefine el acto de aprender.
 
 
+## Re-descubriendo la hibridacion: INSTAGRAM
 
-## Re-descubriendo la hibridacion: Caso 2
+![Logo Instagram](https://github.com/CarlosUOC25/PEC3_Manovich_Reloaded/blob/5054625ac84dcb99e0e715b7bca81579a1d9c279/38004399845_fb6116b624_c.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Instagram es una red social y aplicación que fue creada por Mike Krieger y Kevin Storm en el año 2010. Actualmente pertenece a la gigante tecnológica Meta, conocida por aglomerar importantes aplicaciones como What’s app y Facebook, entre otras.
+
+Principalmente, en Instagram los usuarios pueden compartir fotos y videos, interactuar con otras personas a través de los “me gusta” o dejando comentarios en sus publicaciones.  Ofrece funciones como Historias (videos o imágenes que desaparecen en 24 horas), Reels (videos cortos) y Videos en vivo (videos en directo).
+
+### Incorporación de medios
+Siguiendo el enfoque de Manovich, Instagram se trata de un medio hibrido porque no se limita solamente a ensamblar varios medios (multimedia), sino que los fusiona dentro de un único entorno regido por el software.
+
+A continuación, analizaremos los principales elementos que hibrida la plataforma:
+
+- Red social: Hereda la lógica de otras redes sociales como Facebook, basadas en seguir a otros usuarios, compartir publicaciones y reaccionar a estas. Sin embargo, esta lógica es reconfigurada hacia un sistema en el que la interacción social se centra en lo visual. No se trata de comunicarse sino de mostrar la mejor versión de uno mismo.
+- Fotografía y video: Instagram cambia la fotografía y el video, que ya no se usan solo para mostrar la realidad, sino para crear una versión atractiva de uno mismo, diseñada para ser vista y valorada por los demás. El objetivo que se busca al publicar contenido, ya no es guardar un recuerdo, sino que guste a la comunidad.
+- Comercio digital: Con la inclusión de Instagram shopping, la red social también funciona como un escaparate digital incorporando elementos propios del e-commerce.
+- Marca personal: La figura de los conocidos Influencers convierten su perfil personal en marca y cada publicación se percibe como un acto publicitario, generando un nuevo canal de comunicación comercial. 
+
+Tras el análisis de los medios que incorpora Instagram, podemos afirmar que estos convergen dando lugar a una experiencia nueva. El usuario ya no solo publica imágenes, sino que participa en un entorno donde la visibilidad social y el consumo están profundamente integrados
+
+### Estrategía de hibridación
+Al igual que Duolingo, Instagram es otro ejemplo de hibridación dual que combina simultáneamente:
+
+#### Nuevos formatos de medios
+Instagram convierte el formato de video e imagen tradicionales y los transforma. Estos contenidos pasan de ser naturales a estar cuidadosamente editados para parecer más atractivos. Además, los videos se transforman, no solo muestran cosas, sino que cuentan algo.
+
+Otro aspecto son las dinámicas del marketing personal, las personas no publican siempre lo que les gusta, sino que están vinculando su imagen personal a marcas. Además, Instagram se convierte en una tienda, las marcas pueden tener tiendas integradas dentro de la app y los usuarios realizan compras a través de sus publicaciones.
+
+Todo lo anterior funciona como un formato de medios nuevo, puesto que no solo combina elementos, sino que los transforma mediante el software en una experiencia integrada e inédita. Según Manovich, esto es precisamente lo que define a un medio hibrido: no solo juntar medios sino hacer que funcionen de manera conjunta.
+
+#### Nuevas técnicas de interfaz
+Instagram introduce nuevas formas de navegación e interacción que transforman radicalmente la experiencia del usuario:
+
+El scroll infinito permite un flujo continuo de contenido sin interrupciones, mientras que los Reels, al reproducirse automáticamente, aceleran el ritmo del consumo visual.
+
+Las historias, con sus respuestas rápidas, fomentan interacciones espontáneas, distintas a los comentarios tradicionales. Además, la navegación basada en algoritmos personaliza lo que cada usuario ve, creando una experiencia única para cada perfil. 
+
+Finalmente, Instagram permite consumir e interactuar al mismo tiempo: desde una misma publicación se puede comentar, guardar, compartir o incluso comprar un producto. Esta integración de funciones configura una interfaz compleja pero fluida, que sintetiza contenidos sociales, comerciales y audiovisuales dentro de un mismo entorno.
+
+### Conclusión
+Instagram representa un claro ejemplo de medio híbrido según la definición de Lev Manovich. A través de la softwarización, la plataforma fusiona múltiples medios en una sola estructura. Esta hibridación no se limita a la coexistencia de elementos, sino que transforma sus lógicas internas, dando lugar a nuevas formas de producción, circulación e interacción de contenido. 
+
+Simultáneamente, introduce técnicas de interfaz innovadoras que configuran una experiencia visual continua y personalizada, que redefine la relación entre usuario, imagen y entorno digital. 
+
+En definitiva, Instagram no es solo una suma de medios anteriores, sino un formato nuevo, funcionalmente autónomo, que ilustra el proceso de hibridación descrito por Manovich.
+
+## Valoración personal
+Antes de comenzar la lectura de El software toma el mando, especialmente su capítulo 3, desconocía por completo el concepto de hibridación. Curiosamente, y siempre refiriéndome al ámbito del software, vivimos rodeados de tecnología híbrida, algo que ahora me resulta realmente fascinante.
+
+Los casos que he analizado, Duolingo e Instagram, ejemplifican cómo los medios digitales actuales ya no son simplemente una suma de cosas que conocíamos, sino que combinan todos esos elementos de formas nuevas gracias al software. Estas plataformas no solo integran contenidos, transforman la manera en que los usamos, interactuamos con ellos y los incorporamos a nuestra vida.
+
+De hecho, no son solo “apps”, sino medios completamente nuevos, puesto que el ordenador es un auténtico cajón de sastre: no contiene medios separados, sino que integra pequeños componentes que se unen para formar híbridos (Manovich, 2013).  Por lo tanto, los dispositivos digitales no solo almacenan medios separados, sino que los integran y crean nuevas formas de interacción.
+
+Esta transformación no solo organiza contenidos: cambia nuestra experiencia y nuestra relación con ellos. El software realmente toma el mando, ya que se ha convertido en el verdadero motor de esta nueva era de medios híbridos.
 
 
 ### Referencias y Bibliografía
@@ -88,4 +138,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
+Imágenes CC BY [FLICKR](https://www.flickr.com/photos/ajay_suresh/51845411913)
+Imágenes CC BY [FLICKR](https://www.flickr.com/photos/138935140@N06/38004399845)

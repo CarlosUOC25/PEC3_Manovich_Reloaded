@@ -8,7 +8,7 @@ Autor: Carlos Guillén Penadés
 
 Fecha: 11/05/2025
 
-![Cultura Digital](./assets/51845411913_4878f16e79_c.jpg)
+![Cultura Digital](PEC3_Manovich_Reloaded/51845411913_4878f16e79_c.jpg)
 
 
 ## Introducción

@@ -148,7 +148,7 @@ El software realmente toma el mando, ya que se ha convertido en el verdadero mot
 * Espallargas, A. (2024). *El éxito de Instagram: cómo logra mantenerse en el podio de las redes sociales a pesar de los años*. GQ España. Disponible en: (https://www.revistagq.com/articulo/el-exito-de-instagram-como-logra-mantenerse-en-el-podio-de-las-redes-sociales-a-pesar-de-los-anos)
 
 
-----
+## Licencias
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
 Imágenes CC BY [FLICKR](https://www.flickr.com/photos/ajay_suresh/51845411913)

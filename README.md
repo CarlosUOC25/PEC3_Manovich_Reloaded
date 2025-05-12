@@ -10,7 +10,7 @@ Fecha: 12/05/2025
 
 ## Más allá de la multimedia: la hibridación
 
-![Lev Manovich](https://github.com/CarlosUOC25/PEC3_Manovich_Reloaded/blob/60ad16d78e004822cd69005bc73c342fb14877ac/1024px-Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
+![Lev Manovich](https://github.com/CarlosUOC25/PEC3_Manovich_Reloaded/blob/54d6b3a41b449fe5b41597910745d8810bc795b3/512px-Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
 
 En *El software toma el mando*, Lev Manovich introduce el término hibridación para describir un fenómeno característico de la era digital. Con el proceso de **softwarización** de los medios, el autor sostiene que estos comienzan a operar dentro de un ecosistema de software compartido, lo que propicia la interacción, mutación y creación de híbridos (Manovich, 2013).
 

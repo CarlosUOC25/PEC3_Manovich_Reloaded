@@ -150,6 +150,7 @@ El software realmente toma el mando, ya que se ha convertido en el verdadero mot
 
 ## Licencias
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
-Imágenes CC BY [FLICKR](https://www.flickr.com/photos/ajay_suresh/51845411913)
-Imágenes CC BY [FLICKR](https://www.flickr.com/photos/138935140@N06/38004399845)
+* Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
+* Imagen: CC BY [FLICKR](https://www.flickr.com/photos/ajay_suresh/51845411913)
+* Imagen: CC BY [FLICKR](https://www.flickr.com/photos/138935140@N06/38004399845)
+* Imágen: CC BY [WIKIMEDIA COMMONS] (https://commons.wikimedia.org/wiki/File:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)

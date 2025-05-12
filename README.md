@@ -56,7 +56,7 @@ Tal como nos enseña Manovich, “Un hibrido puede combinar ambas estrategias, e
 Duolingo representa una **doble hibridación**, es decir, define nuevos formatos de medios y al mismo tiempo propone nuevas técnicas de interfaz. 
 
 #### Nuevos formatos de medios
-Duolingo transforma el formato de aprendizaje en una experiencia interactiva y lúdica, no se limita a mostrar el contenido educativo de forma tradicional, lo convierte en lecciones interactivas con un sistema de retroalimentación en tiempo real:  vidas, niveles, recompensas, objetivos diarios, etc.
+Duolingo transforma el formato de aprendizaje en una experiencia interactiva y lúdica, no se limita a mostrar el contenido educativo de forma tradicional, lo convierte en lecciones interactivas con un sistema de retroalimentación en tiempo real: vidas, niveles, recompensas, objetivos diarios, etc.
 
 En consecuencia, podemos afirmar que se ha creado un formato de medio nuevo, distinto al que ofrecen los libros tradiciones, cursos presenciales o incluso otras aplicaciones de enfocadas en el aprendizaje.
 
@@ -109,7 +109,7 @@ Tras el análisis de los medios que incorpora Instagram, he llegado a la conclus
 Al igual que Duolingo, Instagram es otro ejemplo de **hibridación dual** que combina simultáneamente:
 
 #### Nuevos formatos de medios
-Instagram convierte el formato de video e imagen tradicionales y los transforma. Estos contenidos pasan de ser espontáneos a estar cuidadosamente editados para parecer más atractivos. Np solo enseñan algo, sino que tambien cuentan una historia.
+Instagram convierte el formato de video e imagen tradicionales y los transforma. Estos contenidos pasan de ser espontáneos a estar cuidadosamente editados para parecer más atractivos. No solo enseñan algo, sino que tambien cuentan una historia.
 
 Otro aspecto a tener en cuenta son las dinámicas del marketing personal, las personas no publican siempre lo que les gusta, sino que están vinculando su imagen personal a marcas. Además, Instagram se convierte en una tienda, ya que las marcas pueden tener tiendas integradas dentro de la app y los usuarios pueden realizar compras a través de sus publicaciones.
 

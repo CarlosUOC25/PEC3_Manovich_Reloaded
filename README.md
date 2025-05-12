@@ -142,9 +142,9 @@ El software realmente toma el mando, ya que se ha convertido en el verdadero mot
 ## Referencias y Bibliografía
 
 * Manovich, L. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
-* Adel Español, F. (2024). *Fundamentos y evolución de la multimedia*.Hibridación de medios. UOC. Disponible en: (https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/)
+* Adel Español, F. (2024). *Fundamentos y evolución de la multimedia*. Hibridación de medios. UOC. Disponible en: (https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/)
 * Wikipedia contributors. (s/f). *Hibridación de medios*. Wikipedia, The Free Encyclopedia. Disponible en: (https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
-* Bofinger, W. (2024). *La historia de éxito de Duolingo, la app más descargada en el mundo para aprender idiomas y que ha hecho multimillonario al guatemalteco que la creó.*Paraguaydigital.com. Disponible en: (https://www.paraguaydigital.com/internacionales/la-historia-de-exito-de-duolingo-la-app-mas-descargada-en-el-mundo-para-aprender-idiomas-y-que-ha-hecho-multimillonario-al-guatemalteco-que-la-creo/42882)
+* Bofinger, W. (2024). *La historia de éxito de Duolingo, la app más descargada en el mundo para aprender idiomas y que ha hecho multimillonario al guatemalteco que la creó*. Paraguaydigital.com. Disponible en: (https://www.paraguaydigital.com/internacionales/la-historia-de-exito-de-duolingo-la-app-mas-descargada-en-el-mundo-para-aprender-idiomas-y-que-ha-hecho-multimillonario-al-guatemalteco-que-la-creo/42882)
 * Espallargas, A. (2024). *El éxito de Instagram: cómo logra mantenerse en el podio de las redes sociales a pesar de los años*. GQ España. Disponible en: (https://www.revistagq.com/articulo/el-exito-de-instagram-como-logra-mantenerse-en-el-podio-de-las-redes-sociales-a-pesar-de-los-anos)
 
 

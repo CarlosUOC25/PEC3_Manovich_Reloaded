@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-### La Hibridación Digital: El Caso de Duolingo e Instagram
+### La Hibridación Digital: El caso de Duolingo e Instagram
   
 
 

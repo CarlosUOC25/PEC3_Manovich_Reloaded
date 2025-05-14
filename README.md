@@ -1,10 +1,11 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
+## La Hibridación Digital: El Caso de Duolingo e Instagram
 
 
 Autor: Carlos Guillén Penadés
 
 
-Fecha: 12/05/2025
+Fecha: 14/05/2025
 
 
 
